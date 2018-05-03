@@ -36,4 +36,6 @@ https://drive.google.com/file/d/1aAqhRy4OnaQgNP8HausSyPZmF-8E57Vj/view?usp=shari
 
 
 
-Note:: Some Sample images and videos included for testing
+##### Note:: Some Sample images and videos included for testing in ```images``` folder
+
+For any issues email at anuragsingh@iiitdmj.ac.in
