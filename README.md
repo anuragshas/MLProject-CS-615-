@@ -5,10 +5,12 @@
  - opencv-python
  - h5py
  - pyqt==5.6
+ - pickle
+ - tqdm
 
 
-## For Training and Testing
-#####	Open Yolo.ipynb in jupyter notebook and follow below instruction
+## For Training and Validation
+#####   Open Yolo.ipynb in jupyter notebook and follow below instruction
 
 + Initialization
     + Download COCO detection data from http://cocodataset.org/#download
@@ -31,3 +33,7 @@ https://drive.google.com/file/d/1aAqhRy4OnaQgNP8HausSyPZmF-8E57Vj/view?usp=shari
 
  - run this in terminal for the application
 ```python obj2.py```
+
+
+
+Note:: Some Sample images and videos included for testing
