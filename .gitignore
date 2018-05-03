@@ -1,0 +1,5 @@
+./COCO_dataset/*
+./logs/*
+./voc/*
+./.ipynb_checkpoints/*
+./__pycache__/*
