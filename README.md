@@ -1,5 +1,5 @@
 ## Requirements
- - tensorflow-gpu==1.3
+ - tensorflow-gpu>=1.1
  - keras==2.0.8
  - imgaug
  - opencv-python
